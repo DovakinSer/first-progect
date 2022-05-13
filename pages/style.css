@@ -1,0 +1,101 @@
+/* шрифты,код normal,глобальные стили  */
+@import url(../vendor/normalize.css);
+@import url(../pages/fonts.css);
+@import url(../blocks/page/page.css);
+/* шапка  */
+@import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/header/__title/title.css);
+@import url(../blocks/header/__subtitle/subtitle.css);
+@import url(../blocks/header/__link/link.css);
+@import url(../blocks/header/__main-illustration/main-illustration.css);
+@import url(../blocks/header/__square-pic/square-pic.css);
+/* блок про две колонки (description)  */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/two-columns/two-columns.css);
+@import url(../blocks/description/two-columns/__brief/brief.css);
+@import url(../blocks/description/two-columns/__main-text/main-text.css);
+@import url(../blocks/description/two-columns/__paragraph/paragraph.css);
+@import url(../blocks/description/two-columns/__span-accent/span-accent.css);
+/* заголовок и подзаголовок используется несколько раз */
+@import url(../blocks/section-title/title.css);
+@import url(../blocks/section-subtitle/subtitle.css);
+/* все что ниже относится к блоку techniques про технику обучения (techniques) */
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/techniques/cards/__description/description.css);
+@import url(../blocks/techniques/cards/__image/image.css);
+@import url(../blocks/techniques/cards/__item/item.css);
+@import url(../blocks/techniques/cards/__title/title.css);
+@import url(../blocks/techniques/cards/cards.css);
+/* все что ниже относится к блоку video про видео с ютуба */
+@import url(../blocks/video/__iframe/iframe.css);
+@import url(../blocks/video/__iframes/iframes.css);
+/* блок про две колонки oakley */
+@import url(../blocks/oakley/oakley.css);
+@import url(../blocks/oakley/two-columns/two-columns.css);
+@import url(../blocks/oakley/two-columns/__brief/brief.css);
+@import url(../blocks/oakley/two-columns/__main-text/main-text.css);
+@import url(../blocks/oakley/two-columns/__paragraph/paragraph.css);
+/* все что ниже относится к блоку feynman метод фейнмана */
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/__title/title.css);
+@import url(../blocks/feynman/__subtitle/subtitle.css);
+@import url(../blocks/feynman/__link/link.css);
+@import url(../blocks/feynman/__img/img.css);
+/* все что ниже относится к блоку digits про цифры и факты*/
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/digits/section-title/title.css);
+@import url(../blocks/digits/section-subtitle/subtitle.css);
+@import url(../blocks/digits/table/table.css);
+@import url(../blocks/digits/table/__cell/cell.css);
+@import url(../blocks/digits/table/__heading/heading.css);
+@import url(../blocks/digits/table/__text/text.css);
+/* все что ниже относится к блоку khan про весь мир школа*/
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__container/container.css);
+@import url(../blocks/khan/__author/author.css);
+@import url(../blocks/khan/__title/title.css);
+@import url(../blocks/khan/__quote/quote.css);
+@import url(../blocks/khan/__quote-author/quote-author.css);
+@import url(../blocks/khan/__quote-author-subline/quote-author-subline.css);
+@import url(../blocks/khan/__book-container/book-container.css);
+@import url(../blocks/khan/__book-pic/book-pic.css);
+@import url(../blocks/khan/__buy-link/buy-link.css);
+/* все что ниже относится к блоку kaufman принципы обучения*/
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__traingle/traingle.css);
+@import url(../blocks/section-title/_theme/theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/theme_dark.css);
+@import url(../blocks/kaufman/table/table.css);
+@import url(../blocks/kaufman/table/_theme/table_theme_dark.css);
+@import url(../blocks/kaufman/table/_theme/table__cell_theme_dark.css);
+@import url(../blocks/kaufman/table/_theme/table__heading_theme_dark.css);
+@import url(../blocks/kaufman/table/_theme/table__text_theme_dark.css);
+/* все что ниже относится к блоку resources где полезные ресурсы*/
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/section-title/title.css);
+@import url(../blocks/resources/section-subtitle/subtitle.css);
+@import url(../blocks/resources/__logo-zone/logo-zone.css);
+@import url(../blocks/resources/__link/link.css);
+/* подвал */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__column/_content/);
+@import url(../blocks/footer/__columns/columns.css);
+@import url(../blocks/footer/__column/_content/content_copyright.css);
+@import url(../blocks/footer/__column/_content/content_info.css);
+@import url(../blocks/footer/__column/_content/content_social.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/footer/__author/author.css);
+@import url(../blocks/footer/__column-heading/column-heading.css);
+@import url(../blocks/footer/__column-links/column-links.css);
+@import url(../blocks/footer/__social-icon/social-icon.css);
+@import url(../blocks/footer/__column-link/column-link.css);
+/* ниже все что связанно с анимацией*/
+@import url(../blocks/rotation/rotation.css);
+
+
+
+
+

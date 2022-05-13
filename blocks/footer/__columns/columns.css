@@ -1,0 +1,11 @@
+.footer__columns{
+  width: 90%;
+  height: 240px;
+  position: absolute;
+  top: 60px;
+  bottom: 40px;
+  right: 5%;
+  left: 5%;
+  display: flex;
+  justify-content: space-between;
+}
